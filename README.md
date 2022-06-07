@@ -1,0 +1,1 @@
+EasyAdmin is a simple, yet powerful, admin panel for Symfony.
